@@ -17,7 +17,9 @@ https://code.visualstudio.com/
 위 4개 URL 접근하시어 python, postgresql, nodejs, visualstudio를
 최신버전으로 설치해주시기 바랍니다. <br>
  
-
+# 주의사항
+# 버전이 너무 높으면 안됩니다.
+# node는 v16, python은 3.7, postgreSQL은 14로 진행해주세요
 
 
 ### (1) python ###
